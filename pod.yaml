@@ -6,7 +6,7 @@ metadata:
   name: codercomserver
 spec:
   containers:
-  - image: therealmarkcastillo/codercomserver
+  - image: jarodcastillo/codercomserver
     imagePullPolicy: Always
     name: codercomserver
     ports:
